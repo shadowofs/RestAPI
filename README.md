@@ -1,4 +1,6 @@
 RestAPI
 =======
-![image](https://github.com/shadowofs/RestAPI/blob/master/album/Workflow.jpg)
+
 see Wiki
+
+![](https://raw.githubusercontent.com/shadowofs/RestAPI/master/album/Workflow.jpg)
