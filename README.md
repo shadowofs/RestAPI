@@ -1,4 +1,0 @@
-PetaAPI
-=======
-
-Peta REST API
