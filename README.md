@@ -1,4 +1,4 @@
 RestAPI
 =======
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/shadowofs/RestAPI/blob/master/Workflow.png)
 see Wiki
